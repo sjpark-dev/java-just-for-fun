@@ -14,8 +14,8 @@ public class Application {
 
     public static void main(String[] args) {
 	    while (true) {
-	        System.out.println("------------- 게임 시작 --------------");
-	        startGame();
+	    System.out.println("------------- 게임 시작 --------------");
+	    startGame();
             System.out.println("-------------- 게임 끝 ---------------");
 
             System.out.println("게임을 종료는 1, 재식작은 2를 입력해주세요.");
